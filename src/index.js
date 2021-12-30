@@ -1,4 +1,4 @@
 
-import { greeting } from './greeting';
+import { greeting } from './greeting.js';
 
 document.write(greeting('Jack'));
